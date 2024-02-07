@@ -1,0 +1,44 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "Welcome",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "🪀 {username} has arrived!",
+                "description": "**Welcome** {user} **To Our Community**\n\n**Dont Forgot to checkout our**\n  **Rules**:<#1204346602911965184> \n  **Self Roles** <#1204346924484788264>",
+                "color": 1310975,
+                "author": {
+                  "name": "MayyaGamingSL's Crew",
+                  "url": "https://www.youtube.com/@MayyaGamingSL",
+                  "icon_url": "https://cdn.discordapp.com/attachments/1204451942387023973/1204651641412780032/cadf25001f3ccada1bb49a31775e7acc.png?ex=65d58244&is=65c30d44&hm=d197220a07ccda038b11b3638d9b79fbb9324d54baf3d7c8409711417c4a0dee&"
+                },
+                "footer": {
+                  "text": "Team MayyaGamingSL",
+                  "icon_url": "https://cdn.discordapp.com/attachments/1204451942387023973/1204451968660275210/wFjT7jdEiYLsAAAAABJRU5ErkJggg.png?ex=65d4c84e&is=65c2534e&hm=6595b87d95af5df30c049de6318d2de4416372f6a8fc7b8d1f6542d6b427c2cd&"
+                },
+                "image": {
+                  "url": "https://cdn.discordapp.com/attachments/1204451942387023973/1204662950074261525/WELCOME_TO_1.gif?ex=65d58ccc&is=65c317cc&hm=34660a9a8aa74eb99b43d0de59e77ddc2bebc0edb5c22e62f5e24ce9f9884c7c&"
+                },
+                "thumbnail": {
+                  "url": "{avatar}"
+                }
+              }
+            ],
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
